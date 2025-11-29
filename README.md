@@ -1,5 +1,7 @@
 # unreal-overgrown-alley
 
+[OvergrownThumb](Images/OvergrownThumbnail.jpg)
+
 Hello,
 
 My name is Jadin Brown. Thanks for downloading my project! You can open it using Unreal Engine 5.6.1.
