@@ -1,6 +1,6 @@
 # unreal-overgrown-alley
 
-[OvergrownThumb](Images/OvergrownThumbnail.jpg)
+![OvergrownThumb](Images/OvergrownThumbnail.jpg)
 
 Hello,
 
